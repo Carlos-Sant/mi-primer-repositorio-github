@@ -1,2 +1,2 @@
-# Repositorio para practicar git pull 
+# Repositorio para practicar git pull (FreeCodeCamp) 
 Creando mi primer repositorio 
